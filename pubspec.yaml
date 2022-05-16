@@ -36,11 +36,17 @@ dependencies:
   cupertino_icons: ^1.0.2
   equatable: ^2.0.3
   dartz: ^0.10.1
-
+  flutter_modular: ^5.0.2
+  http: ^0.13.4
+  youtube_player_iframe: ^2.1.0
+  shimmer: ^2.0.0
+  flutter_triple: ^1.2.7+2
+  url_launcher: ^6.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  mocktail: ^0.3.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
